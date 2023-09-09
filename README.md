@@ -1,8 +1,14 @@
-# React + Vite
+# Image Viewer-react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive image viewer built with HTML, CSS, JavaScript,react.js and taliwandcss.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- View images with a user-friendly interface.
+- Responsive design for various screen sizes.
+- Easy navigation between images.
+- Lightweight and easy to integrate into your web projects.
+
+## Demo
+
+![Image viewer](./screenshot.png)

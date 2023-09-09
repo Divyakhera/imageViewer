@@ -9,7 +9,7 @@ function App() {
   return (
     <div
       className="w-full h-screen duration-200"
-      style={{ backgroundImage: `url("${img}")`,backgroundRepeat:"no-repeat", backgroundPosition:"center" }}
+      style={{ backgroundImage: `url("${img}")`,backgroundRepeat:"no-repeat", backgroundPosition:"center",backgroundColor:"black" }}
     >
       <div className="fixed flex flex-wrap justify-center bottom-5 inset-x-0 px-2">
         <div className="flex flex-wrap justify-center gap-3 shadow-lg bg-white px-3 py-2 rounded-3xl">
